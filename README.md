@@ -16,29 +16,6 @@ This repo is meant to help anyone who wants to **pass efficiently** without gett
 
 ---
 
-## ⚠️ Important Note
-
-This study approach is based on a **1-day preparation strategy** and assumes:
-
-- Basic familiarity with cloud concepts
-- Some exposure to Azure services or terminology
-- Comfort with learning through practice questions
-
-If you are a complete beginner, this may NOT be sufficient.
-
-### Recommended Approach for Beginners
-- Spend **5–7 days (or more)** preparing
-- Go through **Microsoft Learn modules**
-- Watch full-length tutorials at a slower pace
-- Practice consistently before attempting the exam
-
-This guide is best suited for:
-- Quick revision
-- Fast-track preparation
-- Reinforcing existing knowledge
-
----
-
 ## How to Study for AZ-900
 
 ### Step 1: Understand the Exam Style
@@ -130,3 +107,28 @@ If stuck:
 
 **REMEMBER:** SECURITY AND CLOUD ARE NOT JUST SKILLS — THEY ARE A MINDSET.  
 YOU HAVE TO LIVE IT TO LEARN IT AND TO BECOME IT.
+
+---
+
+## ⚠️ Important Note
+
+This study approach is based on a **1-day preparation strategy** and assumes:
+
+- Basic familiarity with cloud concepts
+- Some exposure to Azure services or terminology
+- Comfort with learning through practice questions
+
+If you are a complete beginner, this may NOT be sufficient.
+
+### Recommended Approach for Beginners
+- Spend **5–7 days (or more)** preparing
+- Go through **Microsoft Learn modules**
+- Watch full-length tutorials at a slower pace
+- Practice consistently before attempting the exam
+
+This guide is best suited for:
+- Quick revision
+- Fast-track preparation
+- Reinforcing existing knowledge
+
+---
