@@ -24,63 +24,81 @@ The goal is not just memorization, but **pattern recognition**, which is key to 
 
 ## ☁️ Cloud Concepts (Q1–25)
 
-1. What is cloud computing?
+1. 
+
+What is cloud computing?
 
 A. Running apps locally
 B. Delivering computing services over the internet
 C. Storing data offline
 D. Managing physical servers
 
-2. In the shared responsibility model (IaaS), who manages the OS?
+2. 
+
+In the shared responsibility model (IaaS), who manages the OS?
 
 A. Microsoft
 B. Customer
 C. Both
 D. Neither
 
-3. Which cloud model provides maximum control?
+3. 
+
+Which cloud model provides maximum control?
 
 A. Public
 B. Private
 C. Hybrid
 D. Community
 
-4. A company wants to keep sensitive data on-prem and use cloud for apps. Which model?
+4. 
+
+A company wants to keep sensitive data on-prem and use cloud for apps. Which model?
 
 A. Public
 B. Hybrid
 C. Private
 D. SaaS
 
-5. What does consumption-based pricing mean?
+5. 
+
+What does consumption-based pricing mean?
 
 A. Fixed yearly cost
 B. Pay for what you use
 C. Free services
 D. Unlimited usage
 
-6. Serverless means:
+6. 
+
+Serverless means:
 
 A. No servers exist
 B. You manage servers
 C. Azure manages infrastructure automatically
 D. Only storage is used
 
-7. Which is a benefit of high availability?
+7. 
+
+Which is a benefit of high availability?
 
 A. Lower cost
 B. Reduced downtime
 C. Faster coding
 D. Less storage
 
-8. Scalability allows:
+8. 
+
+Scalability allows:
 
 A. Backup data
 B. Increase/decrease resources
 C. Secure apps
 D. Encrypt data
 
-9. Reliability in cloud means:
+9. 
+
+Reliability in cloud means:
 
 A. Faster internet
 B. System consistency
