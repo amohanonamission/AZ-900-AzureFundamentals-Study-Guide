@@ -108,6 +108,7 @@ D. Better UI
 10.
 
 Which ensures governance?
+
 A. RBAC
 B. Scaling
 C. DNS
@@ -116,6 +117,7 @@ D. CDN
 11.
 
 Which is SaaS?
+
 A. Azure VMs
 B. Azure SQL DB
 C. Microsoft 365
@@ -124,6 +126,7 @@ D. Azure Functions
 12.
 
 Which is PaaS?
+
 A. Azure App Service
 B. Azure VM
 C. Azure Storage
@@ -132,6 +135,7 @@ D. Azure DNS
 13.
 
 Which is IaaS?
+
 A. Azure VM
 B. Microsoft Teams
 C. Azure Logic Apps
@@ -140,6 +144,7 @@ D. Power BI
 14.
 
 Which cloud model is cheapest to start?
+
 A. Private
 B. Hybrid
 C. Public
@@ -148,6 +153,7 @@ D. Dedicated
 15.
 
 Which feature improves predictability?
+
 A. SLAs
 B. VPN
 C. DNS
@@ -156,6 +162,7 @@ D. Tags
 16.
 
 Which is NOT a cloud benefit?
+
 A. Elasticity
 B. High availability
 C. Manual scaling
@@ -164,6 +171,7 @@ D. Fault tolerance
 17.
 
 What is elasticity?
+
 A. Fixed scaling
 B. Automatic scaling
 C. Storage replication
@@ -172,6 +180,7 @@ D. Security control
 18.
 
 Which pricing model uses reservations?
+
 A. Pay-as-you-go
 B. Reserved instances
 C. Free tier
@@ -180,6 +189,7 @@ D. Spot pricing
 19.
 
 Which cloud model is owned by one organization?
+
 A. Public
 B. Private
 C. Hybrid
@@ -188,6 +198,7 @@ D. SaaS
 20.
 
 Which service type manages OS automatically?
+
 A. IaaS
 B. PaaS
 C. On-prem
@@ -196,6 +207,7 @@ D. Colocation
 21.
 
 Which model provides full app access via browser?
+
 A. IaaS
 B. SaaS
 C. PaaS
@@ -204,6 +216,7 @@ D. Hybrid
 22.
 
 Which reduces capital expenditure?
+
 A. Cloud
 B. On-prem
 C. Hybrid
@@ -212,6 +225,7 @@ D. Private
 23.
 
 Which benefit allows global reach?
+
 A. Availability zones
 B. Regions
 C. CDN
@@ -220,6 +234,7 @@ D. Elasticity
 24.
 
 Which ensures uptime SLA?
+
 A. Zones
 B. Policies
 C. Locks
@@ -228,6 +243,7 @@ D. Tags
 25.
 
 Which is serverless?
+
 A. Azure Functions
 B. Azure VM
 C. Azure Disk
@@ -237,6 +253,7 @@ D. Azure VNet
 26.
 
 What is an Azure region?
+
 A. Pricing tier
 B. Datacenter location
 C. Subscription
@@ -245,6 +262,7 @@ D. Resource
 27.
 
 Region pairs are used for:
+
 A. Cost saving
 B. DR and redundancy
 C. Monitoring
@@ -253,6 +271,7 @@ D. Networking
 28.
 
 Availability zones provide:
+
 A. Logical grouping
 B. Physical separation
 C. Virtual network
@@ -261,6 +280,7 @@ D. Backup
 29.
 
 What is a resource group?
+
 A. Billing unit
 B. Container for resources
 C. Network
@@ -269,6 +289,7 @@ D. VM type
 30.
 
 What is a subscription used for?
+
 A. Storage
 B. Billing & access control
 C. Networking
@@ -277,6 +298,7 @@ D. Backup
 31.
 
 Management groups help with:
+
 A. Storage
 B. Governance across subscriptions
 C. Networking
@@ -285,6 +307,7 @@ D. Backup
 32.
 
 Hierarchy order:
+
 A. Resource → Subscription → Group
 B. MG → Subscription → Resource Group → Resource
 C. Subscription → Resource → MG
@@ -293,6 +316,7 @@ D. Resource Group → MG
 33.
 
 Which compute type is event-driven?
+
 A. VM
 B. Container
 C. Function
@@ -301,6 +325,7 @@ D. Storage
 34.
 
 VM Scale Sets are used for:
+
 A. Backup
 B. Auto scaling VMs
 C. Storage
@@ -309,6 +334,7 @@ D. DNS
 35.
 
 Availability sets protect against:
+
 A. Data loss
 B. Hardware failure
 C. Network attack
@@ -317,6 +343,7 @@ D. Malware
 36.
 
 Azure Virtual Desktop is used for:
+
 A. Web apps
 B. Remote desktops
 C. Storage
@@ -325,6 +352,7 @@ D. Monitoring
 37.
 
 Which is required for a VM?
+
 A. VNet
 B. Disk
 C. NIC
@@ -333,6 +361,7 @@ D. All of the above
 38.
 
 Best hosting for web apps?
+
 A. VM
 B. App Service
 C. Storage
@@ -341,6 +370,7 @@ D. DNS
 39.
 
 Azure VNet is used for:
+
 A. Storage
 B. Networking
 C. Compute
@@ -349,6 +379,7 @@ D. Backup
 40.
 
 Subnet is:
+
 A. Separate region
 B. Network division
 C. VM
@@ -357,6 +388,7 @@ D. Disk
 41.
 
 VNet peering connects:
+
 A. Regions
 B. VNets
 C. Subnets
@@ -365,6 +397,7 @@ D. Storage
 42.
 
 Azure DNS resolves:
+
 A. IP to name
 B. Name to IP
 C. VM to storage
@@ -373,6 +406,7 @@ D. App to VM
 43.
 
 VPN Gateway connects:
+
 A. VNet to internet
 B. On-prem to Azure
 C. VM to VM
@@ -381,6 +415,7 @@ D. Storage to compute
 44.
 
 ExpressRoute provides:
+
 A. Public internet
 B. Private connection
 C. DNS
@@ -389,6 +424,7 @@ D. CDN
 45.
 
 Public endpoint means:
+
 A. Internal access
 B. Internet accessible
 C. Private IP
@@ -397,6 +433,7 @@ D. VPN only
 46.
 
 Which storage is unstructured?
+
 A. Blob
 B. Disk
 C. Queue
@@ -405,6 +442,7 @@ D. Table
 47.
 
 Hot tier is used for:
+
 A. Rare access
 B. Frequent access
 C. Archive
@@ -413,6 +451,7 @@ D. Backup
 48.
 
 Which redundancy replicates across regions?
+
 A. LRS
 B. ZRS
 C. GRS
@@ -421,6 +460,7 @@ D. None
 49.
 
 Azure Migrate is used for:
+
 A. Monitoring
 B. Migration
 C. Security
@@ -429,6 +469,7 @@ D. Backup
 50.
 
 Data Box is used for:
+
 A. Small data transfer
 B. Large offline transfer
 C. Backup
@@ -437,6 +478,7 @@ D. Monitoring
 51.
 
 Microsoft Entra ID is:
+
 A. Storage
 B. Identity service
 C. Network
@@ -445,6 +487,7 @@ D. Compute
 52.
 
 MFA improves:
+
 A. Performance
 B. Security
 C. Storage
@@ -453,6 +496,7 @@ D. Networking
 53.
 
 B2B means:
+
 A. Internal users
 B. External partners
 C. Customers
@@ -461,6 +505,7 @@ D. Admins
 54.
 
 RBAC controls:
+
 A. Networking
 B. Access permissions
 C. Storage
@@ -469,6 +514,7 @@ D. Backup
 55.
 
 Zero Trust means:
+
 A. Trust all users
 B. Verify everything
 C. No security
@@ -478,6 +524,7 @@ D. Public access
 56.
 
 Azure pricing depends on:
+
 A. Usage
 B. Location
 C. Service type
@@ -486,6 +533,7 @@ D. All
 57.
 
 Pricing calculator is used for:
+
 A. Billing
 B. Estimation
 C. Monitoring
@@ -494,6 +542,7 @@ D. Security
 58.
 
 TCO calculator compares:
+
 A. Azure services
 B. Cloud vs on-prem
 C. Storage tiers
@@ -502,6 +551,7 @@ D. Regions
 59.
 
 Azure Cost Management helps:
+
 A. Monitor usage
 B. Reduce cost
 C. Analyze spending
@@ -510,6 +560,7 @@ D. All
 60.
 
 Tags are used for:
+
 A. Security
 B. Organization
 C. Networking
@@ -518,6 +569,7 @@ D. Compute
 61.
 
 Azure Policy enforces:
+
 A. Governance rules
 B. Storage
 C. Compute
@@ -526,6 +578,7 @@ D. Backup
 62.
 
 Resource locks prevent:
+
 A. Access
 B. Deletion/modification
 C. Networking
@@ -534,6 +587,7 @@ D. Billing
 63.
 
 Microsoft Purview is for:
+
 A. Data governance
 B. Networking
 C. Compute
@@ -542,6 +596,7 @@ D. Storage
 64.
 
 Azure Portal is:
+
 A. CLI
 B. Web interface
 C. API
@@ -550,6 +605,7 @@ D. Script
 65.
 
 Cloud Shell supports:
+
 A. CLI & PowerShell
 B. Only CLI
 C. Only PowerShell
@@ -558,6 +614,7 @@ D. None
 66.
 
 Azure Arc manages:
+
 A. Only Azure
 B. Hybrid resources
 C. Storage
@@ -566,6 +623,7 @@ D. Networking
 67.
 
 IaC means:
+
 A. Manual setup
 B. Code-based deployment
 C. Monitoring
@@ -574,6 +632,7 @@ D. Security
 68.
 
 ARM templates are:
+
 A. Scripts
 B. JSON deployments
 C. Policies
@@ -582,6 +641,7 @@ D. Logs
 69.
 
 Azure Advisor provides:
+
 A. Recommendations
 B. Logs
 C. Billing
@@ -590,6 +650,7 @@ D. Storage
 70.
 
 Service Health shows:
+
 A. Personal resources
 B. Azure outages
 C. Billing
@@ -598,6 +659,7 @@ D. Storage
 71.
 
 Azure Monitor collects:
+
 A. Logs & metrics
 B. Storage
 C. Compute
@@ -606,6 +668,7 @@ D. Network
 72.
 
 Log Analytics is used for:
+
 A. Query logs
 B. Backup
 C. Compute
@@ -614,6 +677,7 @@ D. Storage
 73.
 
 Alerts notify:
+
 A. Errors
 B. Conditions
 C. Threshold breaches
@@ -622,6 +686,7 @@ D. All
 74.
 
 Application Insights monitors:
+
 A. Infra
 B. Apps
 C. Storage
@@ -630,6 +695,7 @@ D. DNS
 75.
 
 Defender for Cloud provides:
+
 A. Security posture
 B. Backup
 C. Compute
@@ -638,6 +704,7 @@ D. Networking
 76.
 
 Conditional Access controls:
+
 A. Network
 B. Access based on conditions
 C. Storage
@@ -646,6 +713,7 @@ D. Compute
 77.
 
 Defense in depth means:
+
 A. Single control
 B. Multiple layers
 C. No control
@@ -654,6 +722,7 @@ D. Only firewall
 78.
 
 Compliance ensures:
+
 A. Performance
 B. Regulatory adherence
 C. Networking
@@ -662,6 +731,7 @@ D. Storage
 79.
 
 Governance ensures:
+
 A. Speed
 B. Control & policies
 C. Storage
@@ -670,6 +740,7 @@ D. Compute
 80.
 
 Monitoring helps with:
+
 A. Visibility
 B. Performance
 C. Security
