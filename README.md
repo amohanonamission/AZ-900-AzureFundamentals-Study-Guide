@@ -16,6 +16,19 @@ This repo is meant to help anyone who wants to **pass efficiently** without gett
 
 ---
 
+## My Result
+
+- Exam: Microsoft Azure Fundamentals (AZ-900)
+- Preparation Time: Approximately 1 day
+- Outcome: Passed
+- Study Method:
+  - ~200 practice questions
+  - 40-minute cram video
+  - Focused revision
+- Score : 88.9% ( 889 / 1000 )
+
+---
+
 ## How to Study for AZ-900
 
 ### Step 1: Understand the Exam Style
