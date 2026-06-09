@@ -145,3 +145,7 @@ This guide is best suited for:
 - Reinforcing existing knowledge
 
 ---
+
+### License
+- Free for learners. No commercial use.  
+- Feel free to fork, add notes, or improve resources.
