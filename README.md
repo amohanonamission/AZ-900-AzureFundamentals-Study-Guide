@@ -16,6 +16,19 @@ This repo is meant to help anyone who wants to **pass efficiently** without gett
 
 ---
 
+## Who This Repo Is For
+
+This guide is best suited for:
+
+- IT professionals needing Azure fundamentals
+- Security professionals learning cloud concepts
+- Students preparing for AZ-900
+- Professionals looking for a fast-track review
+
+This guide is NOT intended to replace Microsoft Learn or full Azure training.
+
+---
+
 ## My Result
 
 - Exam: Microsoft Azure Fundamentals (AZ-900)
