@@ -11,6 +11,14 @@ The goal is not just memorization, but **pattern recognition**, which is key to 
 
 ---
 
+**⚠️ Disclaimer**
+
+These questions were generated and curated using AI-assisted study methods and are intended as supplementary practice only.
+
+Always refer to Microsoft Learn and official exam objectives for authoritative content.
+
+---
+
 ## How to Use
 
 - Attempt questions without looking at answers first  
