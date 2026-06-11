@@ -159,6 +159,17 @@ This guide is best suited for:
 
 ---
 
+## Future Improvements
+
+- More practice questions
+- Azure service comparison charts
+- Exam objective breakdowns
+- Common exam traps and confusing concepts
+- Beginner-friendly study roadmap
+
+---
+
 ### License
 - Free for learners. No commercial use.  
 - Feel free to fork, add notes, or improve resources.
+
