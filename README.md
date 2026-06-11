@@ -125,7 +125,7 @@ If stuck:
 - AZ-900 is about **recognition, not memorization**
 - Focus on **understanding use cases**
 - Practice questions matter more than videos
-- Stay calm — you only need ~65–70% to pass
+- Stay calm — you only need ~70–75% to pass
 
 ---
 
