@@ -19,6 +19,18 @@ Always refer to Microsoft Learn and official exam objectives for authoritative c
 
 ---
 
+## Sample LLM Prompts
+
+1. Generate 10 AZ-900 questions on Azure networking.
+
+2. Explain the difference between RBAC, Azure Policy, and Resource Locks.
+
+3. Quiz me on Azure storage redundancy options.
+
+4. Act as an AZ-900 instructor and test me on cloud concepts.
+
+---
+
 ## How to Use
 
 - Attempt questions without looking at answers first  
