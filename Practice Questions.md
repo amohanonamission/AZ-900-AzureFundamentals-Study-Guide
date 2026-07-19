@@ -262,7 +262,7 @@ A. Azure Functions
 B. Azure VM
 C. Azure Disk
 D. Azure VNet
-
+```
 ## 🏗️ Azure Architecture & Services (Q26–55)
 26.
 
