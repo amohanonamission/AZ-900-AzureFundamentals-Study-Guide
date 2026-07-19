@@ -43,10 +43,8 @@ Always refer to Microsoft Learn and official exam objectives for authoritative c
 > Tip: AZ-900 is less about deep technical knowledge and more about choosing the **best Azure solution for a given scenario**.
 
 ## ☁️ Cloud Concepts (Q1–25)
-
-1. 
-
-What is cloud computing?
+```
+(Q1.)- What is cloud computing?
 
 A. Running apps locally
 B. Delivering computing services over the internet
@@ -765,6 +763,8 @@ A. Visibility
 B. Performance
 C. Security
 D. All
+
+```
 
 ## ANSWER KEY
 
