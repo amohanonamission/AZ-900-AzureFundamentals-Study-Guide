@@ -536,6 +536,8 @@ D. Public access
 ```
 
 ## ⚙️ Azure Management & Governance (Q56–80)
+
+```
 56.
 
 Azure pricing depends on:
