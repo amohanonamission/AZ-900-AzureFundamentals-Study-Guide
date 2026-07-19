@@ -264,9 +264,8 @@ C. Azure Disk
 D. Azure VNet
 ```
 ## 🏗️ Azure Architecture & Services (Q26–55)
-26.
-
-What is an Azure region?
+```
+(Q26.)- What is an Azure region?
 
 A. Pricing tier
 B. Datacenter location
@@ -533,6 +532,8 @@ A. Trust all users
 B. Verify everything
 C. No security
 D. Public access
+
+```
 
 ## ⚙️ Azure Management & Governance (Q56–80)
 56.
