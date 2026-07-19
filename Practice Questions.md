@@ -51,18 +51,14 @@ B. Delivering computing services over the internet
 C. Storing data offline
 D. Managing physical servers
 
-2. 
-
-In the shared responsibility model (IaaS), who manages the OS?
+(Q2.)- In the shared responsibility model (IaaS), who manages the OS?
 
 A. Microsoft
 B. Customer
 C. Both
 D. Neither
 
-3. 
-
-Which cloud model provides maximum control?
+(Q3.)- Which cloud model provides maximum control?
 
 A. Public
 B. Private
