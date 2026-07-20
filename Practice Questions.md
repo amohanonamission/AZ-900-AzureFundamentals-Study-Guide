@@ -389,36 +389,32 @@ B. On-prem to Azure
 C. VM to VM
 D. Storage to compute
 
-44.
 
-ExpressRoute provides:
+(Q44.)- ExpressRoute provides:
 
 A. Public internet
 B. Private connection
 C. DNS
 D. CDN
 
-45.
 
-Public endpoint means:
+(Q45.)- Public endpoint means:
 
 A. Internal access
 B. Internet accessible
 C. Private IP
 D. VPN only
 
-46.
 
-Which storage is unstructured?
+(Q46.)- Which storage is unstructured?
 
 A. Blob
 B. Disk
 C. Queue
 D. Table
 
-47.
 
-Hot tier is used for:
+(Q47.)- Hot tier is used for:
 
 A. Rare access
 B. Frequent access
