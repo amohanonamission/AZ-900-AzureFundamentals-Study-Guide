@@ -134,18 +134,14 @@ B. Azure VM
 C. Azure Storage
 D. Azure DNS
 
-13.
-
-Which is IaaS?
+(Q13.)- Which is IaaS?
 
 A. Azure VM
 B. Microsoft Teams
 C. Azure Logic Apps
 D. Power BI
 
-14.
-
-Which cloud model is cheapest to start?
+(Q14.)- Which cloud model is cheapest to start?
 
 A. Private
 B. Hybrid
