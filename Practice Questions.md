@@ -505,27 +505,24 @@ B. Estimation
 C. Monitoring
 D. Security
 
-58.
 
-TCO calculator compares:
+(Q58.)- TCO calculator compares:
 
 A. Azure services
 B. Cloud vs on-prem
 C. Storage tiers
 D. Regions
 
-59.
 
-Azure Cost Management helps:
+(Q59.)- Azure Cost Management helps:
 
 A. Monitor usage
 B. Reduce cost
 C. Analyze spending
 D. All
 
-60.
 
-Tags are used for:
+(Q60.)- Tags are used for:
 
 A. Security
 B. Organization
