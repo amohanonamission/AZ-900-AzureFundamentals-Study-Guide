@@ -51,12 +51,14 @@ B. Delivering computing services over the internet
 C. Storing data offline
 D. Managing physical servers
 
+
 (Q2.)- In the shared responsibility model (IaaS), who manages the OS?
 
 A. Microsoft
 B. Customer
 C. Both
 D. Neither
+
 
 (Q3.)- Which cloud model provides maximum control?
 
@@ -65,12 +67,14 @@ B. Private
 C. Hybrid
 D. Community
 
+
 (Q4.)- A company wants to keep sensitive data on-prem and use cloud for apps. Which model?
 
 A. Public
 B. Hybrid
 C. Private
 D. SaaS
+
 
 (Q5.)- What does consumption-based pricing mean?
 
@@ -79,18 +83,16 @@ B. Pay for what you use
 C. Free services
 D. Unlimited usage
 
-6. 
 
-Serverless means:
+(Q6.)- Serverless means:
 
 A. No servers exist
 B. You manage servers
 C. Azure manages infrastructure automatically
 D. Only storage is used
 
-7. 
 
-Which is a benefit of high availability?
+(Q7.)- Which is a benefit of high availability?
 
 A. Lower cost
 B. Reduced downtime
