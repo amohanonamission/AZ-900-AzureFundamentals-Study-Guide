@@ -261,23 +261,22 @@ B. DR and redundancy
 C. Monitoring
 D. Networking
 
-28.
 
-Availability zones provide:
+(Q28.)- Availability zones provide:
 
 A. Logical grouping
 B. Physical separation
 C. Virtual network
 D. Backup
 
-29.
 
-What is a resource group?
+(Q29.)- What is a resource group?
 
 A. Billing unit
 B. Container for resources
 C. Network
 D. VM type
+
 
 30.
 
