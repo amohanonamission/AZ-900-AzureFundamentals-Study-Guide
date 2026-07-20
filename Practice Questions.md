@@ -309,27 +309,24 @@ B. Container
 C. Function
 D. Storage
 
-34.
 
-VM Scale Sets are used for:
+(Q34.)- VM Scale Sets are used for:
 
 A. Backup
 B. Auto scaling VMs
 C. Storage
 D. DNS
 
-35.
 
-Availability sets protect against:
+(Q35.)- Availability sets protect against:
 
 A. Data loss
 B. Hardware failure
 C. Network attack
 D. Malware
 
-36.
 
-Azure Virtual Desktop is used for:
+(Q36.)- Azure Virtual Desktop is used for:
 
 A. Web apps
 B. Remote desktops
