@@ -211,18 +211,16 @@ B. SaaS
 C. PaaS
 D. Hybrid
 
-22.
 
-Which reduces capital expenditure?
+(Q22.)- Which reduces capital expenditure?
 
 A. Cloud
 B. On-prem
 C. Hybrid
 D. Private
 
-23.
 
-Which benefit allows global reach?
+(Q23.)- Which benefit allows global reach?
 
 A. Availability zones
 B. Regions
