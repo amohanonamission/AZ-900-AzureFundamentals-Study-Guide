@@ -477,9 +477,8 @@ B. Access permissions
 C. Storage
 D. Backup
 
-55.
 
-Zero Trust means:
+(Q55.)- Zero Trust means:
 
 A. Trust all users
 B. Verify everything
@@ -491,18 +490,15 @@ D. Public access
 ## ⚙️ Azure Management & Governance (Q56–80)
 
 ```
-56.
-
-Azure pricing depends on:
+(Q56.)- Azure pricing depends on:
 
 A. Usage
 B. Location
 C. Service type
 D. All
 
-57.
 
-Pricing calculator is used for:
+(Q57.)- Pricing calculator is used for:
 
 A. Billing
 B. Estimation
