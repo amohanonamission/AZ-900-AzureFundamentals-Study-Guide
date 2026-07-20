@@ -293,18 +293,16 @@ B. Governance across subscriptions
 C. Networking
 D. Backup
 
-32.
 
-Hierarchy order:
+(Q32.)- Hierarchy order:
 
 A. Resource → Subscription → Group
 B. MG → Subscription → Resource Group → Resource
 C. Subscription → Resource → MG
 D. Resource Group → MG
 
-33.
 
-Which compute type is event-driven?
+(Q33.)- Which compute type is event-driven?
 
 A. VM
 B. Container
