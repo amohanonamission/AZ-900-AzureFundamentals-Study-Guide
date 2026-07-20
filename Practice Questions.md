@@ -99,18 +99,14 @@ B. Reduced downtime
 C. Faster coding
 D. Less storage
 
-8. 
-
-Scalability allows:
+(Q8.)- Scalability allows:
 
 A. Backup data
 B. Increase/decrease resources
 C. Secure apps
 D. Encrypt data
 
-9. 
-
-Reliability in cloud means:
+(Q9.)- Reliability in cloud means:
 
 A. Faster internet
 B. System consistency
