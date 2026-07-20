@@ -99,12 +99,14 @@ B. Reduced downtime
 C. Faster coding
 D. Less storage
 
+
 (Q8.)- Scalability allows:
 
 A. Backup data
 B. Increase/decrease resources
 C. Secure apps
 D. Encrypt data
+
 
 (Q9.)- Reliability in cloud means:
 
@@ -113,12 +115,14 @@ B. System consistency
 C. Lower cost
 D. Better UI
 
+
 (Q10.)- Which ensures governance?
 
 A. RBAC
 B. Scaling
 C. DNS
 D. CDN
+
 
 (Q11.)- Which is SaaS?
 
@@ -127,12 +131,14 @@ B. Azure SQL DB
 C. Microsoft 365
 D. Azure Functions
 
+
 (Q12.)- Which is PaaS?
 
 A. Azure App Service
 B. Azure VM
 C. Azure Storage
 D. Azure DNS
+
 
 (Q13.)- Which is IaaS?
 
@@ -141,6 +147,7 @@ B. Microsoft Teams
 C. Azure Logic Apps
 D. Power BI
 
+
 (Q14.)- Which cloud model is cheapest to start?
 
 A. Private
@@ -148,12 +155,14 @@ B. Hybrid
 C. Public
 D. Dedicated
 
+
 (Q15.)- Which feature improves predictability?
 
 A. SLAs
 B. VPN
 C. DNS
 D. Tags
+
 
 (Q16.)- Which is NOT a cloud benefit?
 
