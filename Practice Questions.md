@@ -227,18 +227,16 @@ B. Regions
 C. CDN
 D. Elasticity
 
-24.
 
-Which ensures uptime SLA?
+(Q24.)- Which ensures uptime SLA?
 
 A. Zones
 B. Policies
 C. Locks
 D. Tags
 
-25.
 
-Which is serverless?
+(Q25.)- Which is serverless?
 
 A. Azure Functions
 B. Azure VM
