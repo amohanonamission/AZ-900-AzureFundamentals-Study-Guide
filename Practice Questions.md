@@ -148,18 +148,14 @@ B. Hybrid
 C. Public
 D. Dedicated
 
-15.
-
-Which feature improves predictability?
+(Q15.)- Which feature improves predictability?
 
 A. SLAs
 B. VPN
 C. DNS
 D. Tags
 
-16.
-
-Which is NOT a cloud benefit?
+(Q16.)- Which is NOT a cloud benefit?
 
 A. Elasticity
 B. High availability
