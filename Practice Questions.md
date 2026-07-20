@@ -421,27 +421,24 @@ B. Frequent access
 C. Archive
 D. Backup
 
-48.
 
-Which redundancy replicates across regions?
+(Q48.)- Which redundancy replicates across regions?
 
 A. LRS
 B. ZRS
 C. GRS
 D. None
 
-49.
 
-Azure Migrate is used for:
+(Q49.)- Azure Migrate is used for:
 
 A. Monitoring
 B. Migration
 C. Security
 D. Backup
 
-50.
 
-Data Box is used for:
+(Q50.)- Data Box is used for:
 
 A. Small data transfer
 B. Large offline transfer
