@@ -366,27 +366,23 @@ C. VM
 D. Disk
 
 
-41.
-
-VNet peering connects:
+(Q41.)- VNet peering connects:
 
 A. Regions
 B. VNets
 C. Subnets
 D. Storage
 
-42.
 
-Azure DNS resolves:
+(Q42.)- Azure DNS resolves:
 
 A. IP to name
 B. Name to IP
 C. VM to storage
 D. App to VM
 
-43.
 
-VPN Gateway connects:
+(Q43.)- VPN Gateway connects:
 
 A. VNet to internet
 B. On-prem to Azure
