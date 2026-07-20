@@ -113,18 +113,14 @@ B. System consistency
 C. Lower cost
 D. Better UI
 
-10.
-
-Which ensures governance?
+(Q10.)- Which ensures governance?
 
 A. RBAC
 B. Scaling
 C. DNS
 D. CDN
 
-11.
-
-Which is SaaS?
+(Q11.)- Which is SaaS?
 
 A. Azure VMs
 B. Azure SQL DB
