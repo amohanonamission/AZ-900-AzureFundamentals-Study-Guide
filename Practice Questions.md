@@ -244,6 +244,7 @@ C. Azure Disk
 D. Azure VNet
 ```
 ## 🏗️ Azure Architecture & Services (Q26–55)
+
 ```
 (Q26.)- What is an Azure region?
 
@@ -252,9 +253,8 @@ B. Datacenter location
 C. Subscription
 D. Resource
 
-27.
 
-Region pairs are used for:
+(Q27.)- Region pairs are used for:
 
 A. Cost saving
 B. DR and redundancy
