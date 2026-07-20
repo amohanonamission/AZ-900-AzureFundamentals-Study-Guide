@@ -65,18 +65,14 @@ B. Private
 C. Hybrid
 D. Community
 
-4. 
-
-A company wants to keep sensitive data on-prem and use cloud for apps. Which model?
+(Q4.)- A company wants to keep sensitive data on-prem and use cloud for apps. Which model?
 
 A. Public
 B. Hybrid
 C. Private
 D. SaaS
 
-5. 
-
-What does consumption-based pricing mean?
+(Q5.)- What does consumption-based pricing mean?
 
 A. Fixed yearly cost
 B. Pay for what you use
