@@ -278,18 +278,15 @@ C. Network
 D. VM type
 
 
-30.
-
-What is a subscription used for?
+(Q30.)- What is a subscription used for?
 
 A. Storage
 B. Billing & access control
 C. Networking
 D. Backup
 
-31.
 
-Management groups help with:
+(Q31.)- Management groups help with:
 
 A. Storage
 B. Governance across subscriptions
