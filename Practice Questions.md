@@ -445,36 +445,32 @@ B. Large offline transfer
 C. Backup
 D. Monitoring
 
-51.
 
-Microsoft Entra ID is:
+(Q51.)- Microsoft Entra ID is:
 
 A. Storage
 B. Identity service
 C. Network
 D. Compute
 
-52.
 
-MFA improves:
+(Q52.)- MFA improves:
 
 A. Performance
 B. Security
 C. Storage
 D. Networking
 
-53.
 
-B2B means:
+(Q53.)- B2B means:
 
 A. Internal users
 B. External partners
 C. Customers
 D. Admins
 
-54.
 
-RBAC controls:
+(Q54.)- RBAC controls:
 
 A. Networking
 B. Access permissions
