@@ -127,9 +127,7 @@ B. Azure SQL DB
 C. Microsoft 365
 D. Azure Functions
 
-12.
-
-Which is PaaS?
+(Q12.)- Which is PaaS?
 
 A. Azure App Service
 B. Azure VM
