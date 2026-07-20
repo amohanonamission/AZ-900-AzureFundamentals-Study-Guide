@@ -195,18 +195,16 @@ B. Private
 C. Hybrid
 D. SaaS
 
-20.
 
-Which service type manages OS automatically?
+(Q20.)- Which service type manages OS automatically?
 
 A. IaaS
 B. PaaS
 C. On-prem
 D. Colocation
 
-21.
 
-Which model provides full app access via browser?
+(Q21.)- Which model provides full app access via browser?
 
 A. IaaS
 B. SaaS
