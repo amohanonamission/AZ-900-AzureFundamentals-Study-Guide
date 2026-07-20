@@ -358,14 +358,13 @@ C. Compute
 D. Backup
 
 
-40.
-
-Subnet is:
+(Q40.)- Subnet is:
 
 A. Separate region
 B. Network division
 C. VM
 D. Disk
+
 
 41.
 
