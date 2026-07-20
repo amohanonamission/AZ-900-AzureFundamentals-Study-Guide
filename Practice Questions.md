@@ -171,27 +171,24 @@ B. High availability
 C. Manual scaling
 D. Fault tolerance
 
-17.
 
-What is elasticity?
+(Q17.)- What is elasticity?
 
 A. Fixed scaling
 B. Automatic scaling
 C. Storage replication
 D. Security control
 
-18.
 
-Which pricing model uses reservations?
+(Q18.)- Which pricing model uses reservations?
 
 A. Pay-as-you-go
 B. Reserved instances
 C. Free tier
 D. Spot pricing
 
-19.
 
-Which cloud model is owned by one organization?
+(Q19.)- Which cloud model is owned by one organization?
 
 A. Public
 B. Private
