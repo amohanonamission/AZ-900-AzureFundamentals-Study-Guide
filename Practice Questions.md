@@ -333,32 +333,30 @@ B. Remote desktops
 C. Storage
 D. Monitoring
 
-37.
 
-Which is required for a VM?
+(Q37.)- Which is required for a VM?
 
 A. VNet
 B. Disk
 C. NIC
 D. All of the above
 
-38.
 
-Best hosting for web apps?
+(Q38.)- Best hosting for web apps?
 
 A. VM
 B. App Service
 C. Storage
 D. DNS
 
-39.
 
-Azure VNet is used for:
+(Q39.)- Azure VNet is used for:
 
 A. Storage
 B. Networking
 C. Compute
 D. Backup
+
 
 40.
 
