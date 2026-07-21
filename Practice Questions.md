@@ -585,27 +585,24 @@ B. Code-based deployment
 C. Monitoring
 D. Security
 
-68.
 
-ARM templates are:
+(Q68.)- ARM templates are:
 
 A. Scripts
 B. JSON deployments
 C. Policies
 D. Logs
 
-69.
 
-Azure Advisor provides:
+(Q69.)- Azure Advisor provides:
 
 A. Recommendations
 B. Logs
 C. Billing
 D. Storage
 
-70.
 
-Service Health shows:
+(Q70.)- Service Health shows:
 
 A. Personal resources
 B. Azure outages
