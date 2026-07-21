@@ -553,27 +553,24 @@ B. Networking
 C. Compute
 D. Storage
 
-64.
 
-Azure Portal is:
+(Q64.)- Azure Portal is:
 
 A. CLI
 B. Web interface
 C. API
 D. Script
 
-65.
 
-Cloud Shell supports:
+(Q65.)- Cloud Shell supports:
 
 A. CLI & PowerShell
 B. Only CLI
 C. Only PowerShell
 D. None
 
-66.
 
-Azure Arc manages:
+(Q66.)- Azure Arc manages:
 
 A. Only Azure
 B. Hybrid resources
