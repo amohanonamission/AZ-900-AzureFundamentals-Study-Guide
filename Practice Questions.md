@@ -529,27 +529,24 @@ B. Organization
 C. Networking
 D. Compute
 
-61.
 
-Azure Policy enforces:
+(Q61.)- Azure Policy enforces:
 
 A. Governance rules
 B. Storage
 C. Compute
 D. Backup
 
-62.
 
-Resource locks prevent:
+(Q62.)- Resource locks prevent:
 
 A. Access
 B. Deletion/modification
 C. Networking
 D. Billing
 
-63.
 
-Microsoft Purview is for:
+(Q63.)- Microsoft Purview is for:
 
 A. Data governance
 B. Networking
