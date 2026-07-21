@@ -657,18 +657,16 @@ B. Access based on conditions
 C. Storage
 D. Compute
 
-77.
 
-Defense in depth means:
+(Q77.)- Defense in depth means:
 
 A. Single control
 B. Multiple layers
 C. No control
 D. Only firewall
 
-78.
 
-Compliance ensures:
+(Q78.)- Compliance ensures:
 
 A. Performance
 B. Regulatory adherence
