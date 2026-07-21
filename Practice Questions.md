@@ -673,18 +673,16 @@ B. Regulatory adherence
 C. Networking
 D. Storage
 
-79.
 
-Governance ensures:
+(Q79.)- Governance ensures:
 
 A. Speed
 B. Control & policies
 C. Storage
 D. Compute
 
-80.
 
-Monitoring helps with:
+(Q80.)- Monitoring helps with:
 
 A. Visibility
 B. Performance
