@@ -641,18 +641,16 @@ B. Apps
 C. Storage
 D. DNS
 
-75.
 
-Defender for Cloud provides:
+(Q75.)- Defender for Cloud provides:
 
 A. Security posture
 B. Backup
 C. Compute
 D. Networking
 
-76.
 
-Conditional Access controls:
+(Q76.)- Conditional Access controls:
 
 A. Network
 B. Access based on conditions
