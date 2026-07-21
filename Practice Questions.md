@@ -577,9 +577,8 @@ B. Hybrid resources
 C. Storage
 D. Networking
 
-67.
 
-IaC means:
+(Q67.)- IaC means:
 
 A. Manual setup
 B. Code-based deployment
