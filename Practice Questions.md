@@ -625,18 +625,16 @@ B. Backup
 C. Compute
 D. Storage
 
-73.
 
-Alerts notify:
+(Q73.)- Alerts notify:
 
 A. Errors
 B. Conditions
 C. Threshold breaches
 D. All
 
-74.
 
-Application Insights monitors:
+(Q74.)- Application Insights monitors:
 
 A. Infra
 B. Apps
