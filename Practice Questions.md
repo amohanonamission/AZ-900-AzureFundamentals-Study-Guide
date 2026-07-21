@@ -609,18 +609,16 @@ B. Azure outages
 C. Billing
 D. Storage
 
-71.
 
-Azure Monitor collects:
+(Q71.)- Azure Monitor collects:
 
 A. Logs & metrics
 B. Storage
 C. Compute
 D. Network
 
-72.
 
-Log Analytics is used for:
+(Q72.)- Log Analytics is used for:
 
 A. Query logs
 B. Backup
